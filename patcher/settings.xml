@@ -4,17 +4,18 @@
 
 <update>
   <header>Added Chinese Gold Farmer</header>
-  <line1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sodales at ligula eu rhoncus. Nulla</line1>
-  <line2></line2>
+  <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sodales at ligula eu rhoncus. Nulla</text>
   <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&showforum=3</href>
 </update>
 
 <update>
   <header>Fixed Chinese Gold Farmer Bug</header>
+  <text>Lorem ipsum dolor sit amet.</text>
   <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&showforum=3</href>
 </update>
 
 <update>
   <header>Added more Chinese Gold Farmers</header>
+  <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</text>
   <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&showforum=3</href>
 </update>
