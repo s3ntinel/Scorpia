@@ -3,23 +3,23 @@
 <settings>
   <version>1.0</version>
   
-  <read_more>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&showforum=3</read_more>
+  <read_more>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&amp;showforum=3</read_more>
   
   <update>
     <header>Added Chinese Gold Farmer</header>
     <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sodales at ligula eu rhoncus. Nulla</text>
-    <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&showforum=3</href>
+    <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&amp;showforum=3</href>
   </update>
   
   <update>
     <header>Fixed Chinese Gold Farmer Bug</header>
     <text>Lorem ipsum dolor sit amet.</text>
-    <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&showforum=3</href>
+    <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&amp;showforum=3</href>
   </update>
   
   <update>
     <header>Added more Chinese Gold Farmers</header>
     <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</text>
-    <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&showforum=3</href>
+    <href>http://scorpia.org/forums/index.php?s=b80492a6a84acd499fd60d5267e32e73&amp;showforum=3</href>
   </update>
 </settings>
